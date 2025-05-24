@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\FACULDADE 2023.2024\\API-DOTNET\\API-CLIENTES\\ApiClientes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{882BA3A3-1B62-4BB7-81AB-9AD0B49FF9CB}|ApiClientes.csproj|c:\\users\\user\\desktop\\faculdade 2023.2024\\api-dotnet\\api-clientes\\apiclientes\\database\\models\\tbendereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882BA3A3-1B62-4BB7-81AB-9AD0B49FF9CB}|ApiClientes.csproj|solutionrelative:database\\models\\tbendereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{882BA3A3-1B62-4BB7-81AB-9AD0B49FF9CB}|ApiClientes.csproj|c:\\users\\user\\desktop\\faculdade 2023.2024\\api-dotnet\\api-clientes\\apiclientes\\services\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882BA3A3-1B62-4BB7-81AB-9AD0B49FF9CB}|ApiClientes.csproj|solutionrelative:services\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{882BA3A3-1B62-4BB7-81AB-9AD0B49FF9CB}|ApiClientes.csproj|c:\\users\\user\\desktop\\faculdade 2023.2024\\api-dotnet\\api-clientes\\apiclientes\\services\\parsers\\enderecoparsers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882BA3A3-1B62-4BB7-81AB-9AD0B49FF9CB}|ApiClientes.csproj|solutionrelative:services\\parsers\\enderecoparsers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{882BA3A3-1B62-4BB7-81AB-9AD0B49FF9CB}|ApiClientes.csproj|c:\\users\\user\\desktop\\faculdade 2023.2024\\api-dotnet\\api-clientes\\apiclientes\\services\\enderecosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882BA3A3-1B62-4BB7-81AB-9AD0B49FF9CB}|ApiClientes.csproj|solutionrelative:services\\enderecosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{882BA3A3-1B62-4BB7-81AB-9AD0B49FF9CB}|ApiClientes.csproj|c:\\users\\user\\desktop\\faculdade 2023.2024\\api-dotnet\\api-clientes\\apiclientes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882BA3A3-1B62-4BB7-81AB-9AD0B49FF9CB}|ApiClientes.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{882BA3A3-1B62-4BB7-81AB-9AD0B49FF9CB}|ApiClientes.csproj|c:\\users\\user\\desktop\\faculdade 2023.2024\\api-dotnet\\api-clientes\\apiclientes\\controllers\\enderecoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882BA3A3-1B62-4BB7-81AB-9AD0B49FF9CB}|ApiClientes.csproj|solutionrelative:controllers\\enderecoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{882BA3A3-1B62-4BB7-81AB-9AD0B49FF9CB}|ApiClientes.csproj|c:\\users\\user\\desktop\\faculdade 2023.2024\\api-dotnet\\api-clientes\\apiclientes\\services\\dtos\\enderecodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882BA3A3-1B62-4BB7-81AB-9AD0B49FF9CB}|ApiClientes.csproj|solutionrelative:services\\dtos\\enderecodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{882BA3A3-1B62-4BB7-81AB-9AD0B49FF9CB}|ApiClientes.csproj|c:\\users\\user\\desktop\\faculdade 2023.2024\\api-dotnet\\api-clientes\\apiclientes\\database\\models\\clientescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882BA3A3-1B62-4BB7-81AB-9AD0B49FF9CB}|ApiClientes.csproj|solutionrelative:database\\models\\clientescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{882BA3A3-1B62-4BB7-81AB-9AD0B49FF9CB}|ApiClientes.csproj|c:\\users\\user\\desktop\\faculdade 2023.2024\\api-dotnet\\api-clientes\\apiclientes\\services\\clientesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882BA3A3-1B62-4BB7-81AB-9AD0B49FF9CB}|ApiClientes.csproj|solutionrelative:services\\clientesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{882BA3A3-1B62-4BB7-81AB-9AD0B49FF9CB}|ApiClientes.csproj|c:\\users\\user\\desktop\\faculdade 2023.2024\\api-dotnet\\api-clientes\\apiclientes\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882BA3A3-1B62-4BB7-81AB-9AD0B49FF9CB}|ApiClientes.csproj|solutionrelative:controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{882BA3A3-1B62-4BB7-81AB-9AD0B49FF9CB}|ApiClientes.csproj|c:\\users\\user\\desktop\\faculdade 2023.2024\\api-dotnet\\api-clientes\\apiclientes\\services\\dtos\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882BA3A3-1B62-4BB7-81AB-9AD0B49FF9CB}|ApiClientes.csproj|solutionrelative:services\\dtos\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{882BA3A3-1B62-4BB7-81AB-9AD0B49FF9CB}|ApiClientes.csproj|c:\\users\\user\\desktop\\faculdade 2023.2024\\api-dotnet\\api-clientes\\apiclientes\\services\\validations\\clientevalidations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882BA3A3-1B62-4BB7-81AB-9AD0B49FF9CB}|ApiClientes.csproj|solutionrelative:services\\validations\\clientevalidations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{882BA3A3-1B62-4BB7-81AB-9AD0B49FF9CB}|ApiClientes.csproj|c:\\users\\user\\desktop\\faculdade 2023.2024\\api-dotnet\\api-clientes\\apiclientes\\services\\parsers\\clienteparsers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882BA3A3-1B62-4BB7-81AB-9AD0B49FF9CB}|ApiClientes.csproj|solutionrelative:services\\parsers\\clienteparsers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{882BA3A3-1B62-4BB7-81AB-9AD0B49FF9CB}|ApiClientes.csproj|c:\\users\\user\\desktop\\faculdade 2023.2024\\api-dotnet\\api-clientes\\apiclientes\\database\\models\\tbcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882BA3A3-1B62-4BB7-81AB-9AD0B49FF9CB}|ApiClientes.csproj|solutionrelative:database\\models\\tbcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{882BA3A3-1B62-4BB7-81AB-9AD0B49FF9CB}|ApiClientes.csproj|c:\\users\\user\\desktop\\faculdade 2023.2024\\api-dotnet\\api-clientes\\apiclientes\\apiclientes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{882BA3A3-1B62-4BB7-81AB-9AD0B49FF9CB}|ApiClientes.csproj|solutionrelative:apiclientes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TbEndereco.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FACULDADE 2023.2024\\API-DOTNET\\API-CLIENTES\\ApiClientes\\Database\\Models\\TbEndereco.cs",
+              "RelativeDocumentMoniker": "Database\\Models\\TbEndereco.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FACULDADE 2023.2024\\API-DOTNET\\API-CLIENTES\\ApiClientes\\Database\\Models\\TbEndereco.cs",
+              "RelativeToolTip": "Database\\Models\\TbEndereco.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T15:52:17.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BadRequestException.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FACULDADE 2023.2024\\API-DOTNET\\API-CLIENTES\\ApiClientes\\Services\\Exceptions\\BadRequestException.cs",
+              "RelativeDocumentMoniker": "Services\\Exceptions\\BadRequestException.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FACULDADE 2023.2024\\API-DOTNET\\API-CLIENTES\\ApiClientes\\Services\\Exceptions\\BadRequestException.cs",
+              "RelativeToolTip": "Services\\Exceptions\\BadRequestException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T22:38:48.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnderecoParsers.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FACULDADE 2023.2024\\API-DOTNET\\API-CLIENTES\\ApiClientes\\Services\\Parsers\\EnderecoParsers.cs",
+              "RelativeDocumentMoniker": "Services\\Parsers\\EnderecoParsers.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FACULDADE 2023.2024\\API-DOTNET\\API-CLIENTES\\ApiClientes\\Services\\Parsers\\EnderecoParsers.cs",
+              "RelativeToolTip": "Services\\Parsers\\EnderecoParsers.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAYwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T16:37:39.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnderecosService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FACULDADE 2023.2024\\API-DOTNET\\API-CLIENTES\\ApiClientes\\Services\\EnderecosService.cs",
+              "RelativeDocumentMoniker": "Services\\EnderecosService.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FACULDADE 2023.2024\\API-DOTNET\\API-CLIENTES\\ApiClientes\\Services\\EnderecosService.cs",
+              "RelativeToolTip": "Services\\EnderecosService.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAYwD8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T16:38:11.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FACULDADE 2023.2024\\API-DOTNET\\API-CLIENTES\\ApiClientes\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FACULDADE 2023.2024\\API-DOTNET\\API-CLIENTES\\ApiClientes\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAgwCkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T15:41:41.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnderecosController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FACULDADE 2023.2024\\API-DOTNET\\API-CLIENTES\\ApiClientes\\Controllers\\EnderecosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EnderecosController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FACULDADE 2023.2024\\API-DOTNET\\API-CLIENTES\\ApiClientes\\Controllers\\EnderecosController.cs",
+              "RelativeToolTip": "Controllers\\EnderecosController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAgwBwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T16:38:33.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EnderecoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FACULDADE 2023.2024\\API-DOTNET\\API-CLIENTES\\ApiClientes\\Services\\DTOs\\EnderecoDTO.cs",
+              "RelativeDocumentMoniker": "Services\\DTOs\\EnderecoDTO.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FACULDADE 2023.2024\\API-DOTNET\\API-CLIENTES\\ApiClientes\\Services\\DTOs\\EnderecoDTO.cs",
+              "RelativeToolTip": "Services\\DTOs\\EnderecoDTO.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAIwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T16:36:45.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClientesContext.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FACULDADE 2023.2024\\API-DOTNET\\API-CLIENTES\\ApiClientes\\Database\\Models\\ClientesContext.cs",
+              "RelativeDocumentMoniker": "Database\\Models\\ClientesContext.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FACULDADE 2023.2024\\API-DOTNET\\API-CLIENTES\\ApiClientes\\Database\\Models\\ClientesContext.cs",
+              "RelativeToolTip": "Database\\Models\\ClientesContext.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAYwFsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T16:22:04.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TbCliente.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FACULDADE 2023.2024\\API-DOTNET\\API-CLIENTES\\ApiClientes\\Database\\Models\\TbCliente.cs",
+              "RelativeDocumentMoniker": "Database\\Models\\TbCliente.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FACULDADE 2023.2024\\API-DOTNET\\API-CLIENTES\\ApiClientes\\Database\\Models\\TbCliente.cs",
+              "RelativeToolTip": "Database\\Models\\TbCliente.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T15:51:51.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ClienteDTO.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FACULDADE 2023.2024\\API-DOTNET\\API-CLIENTES\\ApiClientes\\Services\\DTOs\\ClienteDTO.cs",
+              "RelativeDocumentMoniker": "Services\\DTOs\\ClienteDTO.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FACULDADE 2023.2024\\API-DOTNET\\API-CLIENTES\\ApiClientes\\Services\\DTOs\\ClienteDTO.cs",
+              "RelativeToolTip": "Services\\DTOs\\ClienteDTO.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wCMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T22:33:19.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ClienteParsers.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FACULDADE 2023.2024\\API-DOTNET\\API-CLIENTES\\ApiClientes\\Services\\Parsers\\ClienteParsers.cs",
+              "RelativeDocumentMoniker": "Services\\Parsers\\ClienteParsers.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FACULDADE 2023.2024\\API-DOTNET\\API-CLIENTES\\ApiClientes\\Services\\Parsers\\ClienteParsers.cs",
+              "RelativeToolTip": "Services\\Parsers\\ClienteParsers.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T22:39:07.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ClienteValidations.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FACULDADE 2023.2024\\API-DOTNET\\API-CLIENTES\\ApiClientes\\Services\\Validations\\ClienteValidations.cs",
+              "RelativeDocumentMoniker": "Services\\Validations\\ClienteValidations.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FACULDADE 2023.2024\\API-DOTNET\\API-CLIENTES\\ApiClientes\\Services\\Validations\\ClienteValidations.cs",
+              "RelativeToolTip": "Services\\Validations\\ClienteValidations.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T22:40:15.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClientesService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FACULDADE 2023.2024\\API-DOTNET\\API-CLIENTES\\ApiClientes\\Services\\ClientesService.cs",
+              "RelativeDocumentMoniker": "Services\\ClientesService.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FACULDADE 2023.2024\\API-DOTNET\\API-CLIENTES\\ApiClientes\\Services\\ClientesService.cs",
+              "RelativeToolTip": "Services\\ClientesService.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAswFEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T15:48:43.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FACULDADE 2023.2024\\API-DOTNET\\API-CLIENTES\\ApiClientes\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FACULDADE 2023.2024\\API-DOTNET\\API-CLIENTES\\ApiClientes\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "Controllers\\ClientesController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAiwCkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T22:40:23.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApiClientes.csproj",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\FACULDADE 2023.2024\\API-DOTNET\\API-CLIENTES\\ApiClientes\\ApiClientes.csproj",
+              "RelativeDocumentMoniker": "ApiClientes.csproj",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\FACULDADE 2023.2024\\API-DOTNET\\API-CLIENTES\\ApiClientes\\ApiClientes.csproj",
+              "RelativeToolTip": "ApiClientes.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-24T15:28:45.393Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
